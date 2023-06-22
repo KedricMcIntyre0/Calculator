@@ -1,0 +1,11 @@
+C:\Users\kedri\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\kedri\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\kedri\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\kedri\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\kedri\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\kedri\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\Users\kedri\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\kedri\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\kedri\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\kedri\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\kedri\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
